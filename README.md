@@ -21,7 +21,7 @@ Statistics and Accepted paper list with [arXiv](https://arxiv.org/) link of [EMN
 
 ### Index
 
-* [Oral Session](Oral Session)
+* [Oral Session](#oral-session)
   * [Machine Learning](#machine-learning)
   * [Lexical Semantics](#lexical-semantics)
   * [Dialog and Interactive Systems](#dialog-and-interactive-systems)
