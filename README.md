@@ -1,29 +1,70 @@
-# EMNLP 2019 Papers
+# EMNLP-IJCNLP 2019 Papers
 
-description
+Statistics and Accepted paper list with [arXiv](https://arxiv.org/) link of [EMNLP-IJCNLP 2019](https://www.emnlp-ijcnlp2019.org/),  inspired by Hoseong's [ICCV-2019-Paper-Statistics](https://github.com/hoya012/ICCV-2019-Paper-Statistics).
 
-![wordcloud](wordcloud.png)
+**Contributing**: Please feel free to make *[pull requests](https://github.com/roomylee/EMNLP-2019-Papers/pulls)*.
 
-
-
-## Acceptance Rate
-
-2x.x%
+![wordcloud](figure/wordcloud.png)
 
 
+## EMNLP 2019 Acceptance Rate
 
-## Top Keywords & Topics
-
-![chart](chart.png)
-
+![rate](figure/rate.png)
 
 
-## Accepted Papers
+## EMNLP 2019 Paper Keywords
 
-topic index
+![stat](figure/stat.png)
 
-## Accepted Papers (Oral)
-### Machine Learning
+
+## Accepted Papers with arXiv Link
+
+### Index
+
+* [Oral Session](Oral Session)
+  * [Machine Learning](#machine-learning)
+  * [Lexical Semantics](#lexical-semantics)
+  * [Dialog and Interactive Systems](#dialog-and-interactive-systems)
+  * [Sentiment Analysis and Argument Mining](#sentiment-analysis-and-argument-mining)
+  * [Summarization and Generation](#summarization-and-generation)
+  * [Sentence-level Semantics](#sentence-level-semantics)
+  * [Speech, Vision, Robotics, Multimodal and Grounding](#speech-vision-robotics-multimodal-and-grounding)
+  * [Information Extraction](#information-extraction)
+  * [Semantics](#semantics)
+  * [Discourse, Summarization, and Generation](#discourse-summarization-and-generation)
+  * [Text Mining and NLP Application](#text-mining-and-nlp-application)
+  * [Neural Machine Translation](#neural-machine-translation)
+  * [Question Answering](#question-answering)
+  * [Social Media and Computational Social Science](#social-media-and-computational-social-science)
+  * [Discourse and Pragmatics](#discourse-and-pragmatics)
+  * [Tagging, Chunking, Syntax and Parsing](#tagging-chunking-syntax-and-parsing)
+  * [Machine Translation and Multilinguality](#machine-translation-and-multilinguality)
+  * [Reasoning and Question Answering](#reasoning-and-question-answering)
+  * [Generation](#generation)
+  * [Summarization](#summarization)
+  * [Information Retrieval and Document Analysis](#information-retrieval-and-document-analysis)
+  * [Reasoning](#reasoning)
+  * [Syntax, Parsing, and Linguistic Theories](#syntax-parsing-and-linguistic-theories)
+  * [Sentiment and social media](#sentiment-and-social-media)
+  * [Phonology, Word Segmentation, and Parsing](#phonology-word-segmentation-and-parsing)
+* [Poster & Demo Session](#poster-demo-session)
+  * [Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories](#information-extraction-information-retrieval-and-document-analysis-linguistic-theories)
+  * [Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing](#machine-translation-and-mulitilinguality-phonology-morphology-and-word-segmentation-tagging-chunking-syntax-and-parsing)
+  * [Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing](#dialog-and-interactive-systems-machine-translation-and-multilinuality-phonology-morphology-and-word-segmentation-speech-vision-robotics-multimodal-and-grounding-tagging-chunking-syntax-and-parsing)
+  * [Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding](#dialog-and-interactive-systems-speech-vision-robotics-multimodal-and-grounding)
+  * [Question Answering, Textual Inference and Other Areas of Semantics](#question-answering-textual-inference-and-other-areas-of-semantics)
+  * [Discourse and Pragmatics, Summarization and Generation](#discourse-and-pragmatics-summarization-and-generation)
+  * [Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning](#information-retrieval-and-document-analysis-lexical-semantics-sentence-level-semantics-machine-learning)
+  * [Machine Learning](#machine-learning-1)
+  * [Social Media and Computational Social Science, Text Mining and NLP Applications](#social-media-and-computational-social-science-text-mining-and-nlp-applications)
+  * [Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics](#sentiment-analysis-and-argument-mining-lexical-semantics-sentence-level-semantics)
+  * [Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation](#discourse-and-pragmatics-linguistic-theories-textual-inference-question-answering-summarization-and-generation)
+  * [Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining](#information-extraction-text-mining-and-nlp-applications-social-media-and-computational-social-science-sentiment-analysis-and-argument-mining)
+
+
+### Oral Session
+
+#### Machine Learning
 - Attending to Future Tokens for Bidirectional Sequence Generation (#1443) [[arXiv]](https://arxiv.org/abs/1908.05915)
 - Attention is Not Not Explanation (#526)
 - Practical Obstacles to Deploying Active Learning (#1176) [[arXiv]](https://arxiv.org/abs/1807.04801)
@@ -39,7 +80,10 @@ topic index
 - Show Your Work: Improved Reporting of Experimental Results (#3277)
 - A Deep Factorization of Style and Structure in Fonts (#3999) [[arXiv]](https://arxiv.org/abs/1910.00748)
 
-### Lexical Semantics
+[Back to Top](#index)
+
+
+#### Lexical Semantics
 - Knowledge Enhanced Contextual Word Representations (#3403) [[arXiv]](https://arxiv.org/abs/1909.04164)
 - How Contextual are Contextualized Word Representations? (#208)
 - Room to Glo: A Systematic Comparison of Semantic Change Detection Approaches with Word Embeddings (#783)
@@ -54,7 +98,10 @@ topic index
 - Still a Pain in the Neck: Evaluating Text Representations on Lexical Composition (#TACL-1729) [[arXiv]](https://arxiv.org/abs/1902.10618)
 - Where''s My Head? Definition, Dataset and Models for Numeric Fused-Heads Identification and Resolution (#TACL-1648) [[arXiv]](https://arxiv.org/abs/1905.10886)
 
-### Dialog and Interactive Systems
+[Back to Top](#index)
+
+
+#### Dialog and Interactive Systems
 - Guided Dialog Policy Learning: Reward Estimation for Multi-Domain Task-Oriented Dialog (#166) [[arXiv]](https://arxiv.org/abs/1908.10719)
 - Multi-hop Selector Network for Multi-turn Response Selection in Retrieval-based Chatbots (#554)
 - MoEL: Mixture of Empathetic Listeners (#1053)
@@ -66,7 +113,9 @@ topic index
 - GECOR: An End-to-End Generative Ellipsis and Co-reference Resolution Model for Task-Oriented Dialogue (#1853) [[arXiv]](https://arxiv.org/abs/1909.12086)
 - Task-Oriented Conversation Generation Using Heterogeneous Memory Networks (#496) [[arXiv]](https://arxiv.org/abs/1909.11287)
 
-### Sentiment Analysis and Argument Mining
+[Back to Top](#index)
+
+#### Sentiment Analysis and Argument Mining
 - DialogueGCN: A Graph-based Network for Emotion Recognition in Conversation (#2092)
 - Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations (#1814) [[arXiv]](https://arxiv.org/abs/1909.10681)
 - Interpretable Relevant Emotion Ranking with Event-Driven Attention (#3544)
@@ -87,14 +136,20 @@ topic index
 - CAN: Constrained Attention Networks for Multi-Aspect Sentiment Analysis (#1995) [[arXiv]](https://arxiv.org/abs/1812.10735)
 - Leveraging Just a Few Keywords for Fine-Grained Aspect Detection Through Weakly Supervised Co-Training (#3207) [[arXiv]](http://arxiv.org/abs/1909.00415)
 
-### Summarization and Generation
+[Back to Top](#index)
+
+
+#### Summarization and Generation
 - Neural Text Summarization: A Critical Evaluation (#3687) [[arXiv]](http://arxiv.org/abs/1908.08960)
 - Neural data-to-text generation: A comparison between pipeline and end-to-end architectures (#2586) [[arXiv]](https://arxiv.org/abs/1908.09022)
 - MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance (#1175) [[arXiv]](https://arxiv.org/abs/1909.02622)
 - Select and Attend: Towards Controllable Content Selection in Text Generation (#3049) [[arXiv]](https://arxiv.org/abs/1909.04453)
 - Sentence-Level Content Planning and Style Specification for Neural Text Generation (#3357) [[arXiv]](http://arxiv.org/abs/1909.00734)
 
-### Sentence-level Semantics
+[Back to Top](#index)
+
+
+#### Sentence-level Semantics
 - Translate and Label! An Encoder-Decoder Approach for Cross-lingual Semantic Role Labeling (#2740) [[arXiv]](https://arxiv.org/abs/1908.11326)
 - Syntax-Enhanced Self-Attention-Based Semantic Role Labeling (#2106)
 - VerbAtlas: a Novel Large-Scale Verbal Semantic Resource and Its Application to Semantic Role Labeling (#2213)
@@ -106,7 +161,10 @@ topic index
 - Don't paraphrase, detect! Rapid and Effective Data Collection for Semantic Parsing (#2904) [[arXiv]](https://arxiv.org/abs/1908.09940)
 - Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond (#TACL-1742) [[arXiv]](https://arxiv.org/abs/1812.10464)
 
-### Speech, Vision, Robotics, Multimodal and Grounding
+[Back to Top](#index)
+
+
+#### Speech, Vision, Robotics, Multimodal and Grounding
 - Extracting Possessions from Social Media: Images Complement Language (#3013)
 - Learning to Speak and Act in a Fantasy Text Adventure Game (#1243) [[arXiv]](https://arxiv.org/abs/1903.03094)
 - Help, Anna! Vision-based Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning (#1542) [[arXiv]](https://arxiv.org/abs/1909.01871)
@@ -118,7 +176,10 @@ topic index
 - YouMakeup: A Large-Scale Domain-Specific Multimodal Dataset for Fine-Grained Semantic Comprehension (#122)
 - DEBUG: A Dense Bottom-Up Grounding Approach for Natural Language Video Localization (#167)
 
-### Information Extraction
+[Back to Top](#index)
+
+
+#### Information Extraction
 - Fine-Grained Evaluation for Entity Linking (#116)
 - Supervising Unsupervised Open Information Extraction Models (#3069)
 - Neural Cross-Lingual Event Detection with Minimal Parallel Resources (#1723)
@@ -139,19 +200,28 @@ topic index
 - HMEAE: Hierarchical Modular Event Argument Extraction (#2354)
 - Entity, Relation, and Event Extraction with Contextualized Span Representations (#3930) [[arXiv]](https://arxiv.org/abs/1909.03546)
 
-### Semantics
+[Back to Top](#index)
+
+
+#### Semantics
 - Analytical Methods for Interpretable Ultradense Word Embeddings (#75) [[arXiv]](http://arxiv.org/abs/1904.08654)
 - Investigating Meta-Learning Algorithms for Low-Resource Natural Language Understanding Tasks (#3142) [[arXiv]](https://arxiv.org/abs/1908.10423)
 - Retrofitting Contextualized Word Embeddings with Paraphrases (#3045) [[arXiv]](https://arxiv.org/abs/1909.09700)
 - Incorporating Contextual and Syntactic Structures Improves Semantic Similarity Modeling (#3508)
 
-### Discourse, Summarization, and Generation
+[Back to Top](#index)
+
+
+#### Discourse, Summarization, and Generation
 - Neural Linguistic Steganography (#3399)
 - The Feasibility of Embedding Based Automatic Evaluation for Single Document Summarization (#3018)
 - Attention Optimization for Abstractive Document Summarization (#1918)
 - Rewarding Coreference Resolvers for Being Consistent with World Knowledge (#2020) [[arXiv]](https://arxiv.org/abs/1909.02392)
 
-### Text Mining and NLP Applications
+[Back to Top](#index)
+
+
+#### Text Mining and NLP Applications
 - An Empirical Study of Incorporating Pseudo Data into Grammatical Error Correction (#740) [[arXiv]](https://arxiv.org/abs/1909.00502)
 - A Multilingual Topic Model for Learning Weighted Topic Links Across Incomparable Corpora (#1257)
 - Measure Country-Level Socio-Economic Indicators with Streaming News: An Empirical Study (#3730)
@@ -167,14 +237,20 @@ topic index
 - Training Data Augmentation for Detecting Adverse Drug Reactions in User-Generated Content (#3011)
 - Deep Reinforcement Learning-based Text Anonymization against Private-Attribute Inference (#3160)
 
-### Neural Machine Translation
+[Back to Top](#index)
+
+
+#### Neural Machine Translation
 - Enhancing Context Modeling with a Query-Guided Capsule Network for Document-level NMT (#2416) [[arXiv]](http://arxiv.org/abs/1909.00564)
 - Simple, Scalable Adaptation for Neural Machine Translation (#3252) [[arXiv]](http://arxiv.org/abs/1909.08478)
 - Controlling Text Complexity in Neural Machine Translation (#3177)
 - Investigating Multilingual NMT Representations at Scale (#1388) [[arXiv]](http://arxiv.org/abs/1909.02197)
 - Hierarchical Modeling of Global Context for Document-Level Neural Machine Translation (#1423)
 
-### Question Answering
+[Back to Top](#index)
+
+
+#### Question Answering
 - Cross-Lingual Machine Reading Comprehension (#8) [[arXiv]](http://arxiv.org/abs/1909.00361)
 - A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning (#582) [[arXiv]](https://arxiv.org/abs/1908.05514)
 - Neural Duplicate Question Detection without Labeled Training Data (#880)
@@ -186,35 +262,47 @@ topic index
 - Learning with Limited Data for Multilingual Reading Comprehension (#3518)
 - A Discrete Hard EM Approach for Weakly Supervised Question Answering (#3778) [[arXiv]](https://arxiv.org/abs/1909.04849)
 
-### Social Media and Computational Social Science
+#### Social Media and Computational Social Science
 - Multi-label Categorization of Accounts of Sexism using a Neural Framework (#172)
 - The Trumpiest Trump? Identifying a Subject's Most Characteristic Tweets (#1462) [[arXiv]](https://arxiv.org/abs/1909.04002)
 - Finding Microaggressions in the Wild: A Case for Locating Elusive Phenomena in Social Media Posts (#2950)
 - Reinforced Product Metadata Selection for Helpfulness Assessment of Customer Reviews (#694)
 - Learning Invariant Representations of Social Media Users (#3557)
 
-### Discourse and Pragmatics
+[Back to Top](#index)
+
+
+#### Discourse and Pragmatics
 - A Unified Neural Coherence Model (#1792)
 - Topic-Guided Coherence Modeling for Sentence Ordering by Preserving Global and Local Information (#2642)
 - Neural Generative Rhetorical Structure Parsing (#4060) [[arXiv]](https://arxiv.org/abs/1909.11049)
 - Weak Supervision for Learning Discourse Structure (#2453)
 - Predicting Discourse Structure using Distant Supervision from Sentiment (#2625)
 
-### Tagging, Chunking, Syntax and Parsing
+[Back to Top](#index)
+
+
+#### Tagging, Chunking, Syntax and Parsing
 - Designing and Interpreting Probes with Control Tasks (#4063) [[arXiv]](https://arxiv.org/abs/1909.03368)
 - Specializing Word Embeddings (for Parsing) by Information Bottleneck (#1357) [[arXiv]](https://arxiv.org/abs/1910.00163)
 - Deep Contextualized Word Embeddings in Transition-Based and Graph-Based Dependency Parsing - A Tale of Two Parsers Revisited (#2799) [[arXiv]](https://arxiv.org/abs/1908.07397)
 - Semantic graph parsing with recurrent neural network DAG grammars (#2863) [[arXiv]](https://arxiv.org/abs/1910.00051)
 - 75 Languages, 1 Model: Parsing Universal Dependencies Universally (#1221) [[arXiv]](http://arxiv.org/abs/1904.02099)
 
-### Linguistic Theories, Cognitive Modeling and Psycholinguistics
+[Back to Top](#index)
+
+
+#### Linguistic Theories, Cognitive Modeling and Psycholinguistics
 - Is the Red Square Big? MALeViC: Modeling Adjectives Leveraging Visual Contexts (#2585) [[arXiv]](https://arxiv.org/abs/1908.10285)
 - Investigating BERT's Knowledge of Language: Five Analysis Methods with NPIs (#3650) [[arXiv]](https://arxiv.org/abs/1909.02597)
 - Representation of Constituents in Neural Language Models: - Coordination Phrase as a Case Study (#3929) [[arXiv]](https://arxiv.org/abs/1909.04625)
 - Towards Zero-shot Language Modelling (#1745)
 - Neural Network Acceptability Judgments (#TACL-1710)
 
-### Machine Translation and Multilinguality
+[Back to Top](#index)
+
+
+#### Machine Translation and Multilinguality
 - Lost in Evaluation: Misleading Benchmarks for Bilingual Dictionary Induction (#1131) [[arXiv]](https://arxiv.org/abs/1909.05708)
 - Towards Realistic Practices In Low-Resource Natural Language Processing: The Development Set (#1266) [[arXiv]](https://arxiv.org/abs/1909.01522)
 - Synchronously Generating Two Languages with Interactive Decoding (#1478)
@@ -232,13 +320,19 @@ topic index
 - Constant-Time Machine Translation with Conditional Masked Language Models (#1204)
 - Learning to Copy for Automatic Post-Editing (#777)
 
-### Reasoning and Question Answering
+[Back to Top](#index)
+
+
+#### Reasoning and Question Answering
 - Going on a vacation takes longer than “Going for a walk”: A Study of Temporal Commonsense Understanding (#2533)
 - QAInfomax: Learning Robust Question Answering System by Mutual Information Maximization (#2798) [[arXiv]](https://arxiv.org/abs/1909.00215)
 - Adapting Meta Knowledge Graph Information for Multi-Hop Reasoning over Few-Shot Relations (#329) [[arXiv]](https://arxiv.org/abs/1908.11513)
 - How Reasonable are Common-Sense Reasoning Tasks: A Case-Study on the Winograd Schema Challenge and SWAG (#586) [[arXiv]](http://arxiv.org/abs/1811.01778)
 
-### Generation
+[Back to Top](#index)
+
+
+#### Generation
 - Pun-GAN: Generative Adversarial Network for Pun Generation (#267)
 - Multi-Task Learning with Language Modeling for Question Generation (#3820) [[arXiv]](https://arxiv.org/abs/1908.11813)
 - Autoregressive Text Generation beyond Feedback Loops (#3506) [[arXiv]](http://arxiv.org/abs/1908.11658)
@@ -252,14 +346,20 @@ topic index
 - Interpoetry: Generating Classical Chinese Poems from Vernacular Chinese (#2534)
 - Set to Ordered Text: Generating Discharge Instructions from Medical Billing Codes (#724)
 
-### Summarization
+[Back to Top](#index)
+
+
+#### Summarization
 - Summary Cloze: A New Task for Content Selection in Topic-Focused Summarization (#1178)
 - Text Summarization with Pretrained Encoders (#392) [[arXiv]](https://arxiv.org/abs/1908.08345)
 - How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing (#609) [[arXiv]](https://arxiv.org/abs/1909.08837)
 - Unsupervised Sentence Summarization using the Information Bottleneck Principle (#3219)
 - Improving Latent Alignment in Text Summarization by Generalizing the Pointer Generator (#3043)
 
-### Information Retrieval and Document Analysis
+[Back to Top](#index)
+
+
+#### Information Retrieval and Document Analysis
 - Cross-Cultural Transfer Learning for Text Classification (#1036)
 - Combining Unsupervised Pre-training and Annotator Rationales to Improve Low-shot Text Classification (#1190)
 - Projection Sequence Networks for On-Device Text Classification (#3202)
@@ -271,32 +371,47 @@ topic index
 - Document Hashing with Mixture-Prior Generative Models (#1676) [[arXiv]](https://arxiv.org/abs/1908.11078)
 - Efficient Vector Retrieval under Maximum Inner Product (#3421)
 
-### Reasoning
+[Back to Top](#index)
+
+
+#### Reasoning
 - Social IQa: Commonsense Reasoning about Social Interactions (#1334) [[arXiv]](https://arxiv.org/abs/1904.09728)
 - Self-Assembling Modular Networks for Interpretable Multi-Hop Reasoning (#2866) [[arXiv]](http://arxiv.org/abs/1909.05803)
 - Posing Fair Generalization Tasks for Natural Language Inference (#1413)
 - Everything Happens for a Reason: Discovering the Purpose of Actions in Procedural Text (#3279)
 - CLUTRR: A Diagnostic Benchmark for Inductive Reasoning from Text (#3183) [[arXiv]](https://arxiv.org/abs/1908.06177)
 
-### Syntax, Parsing, and Linguistic Theories
+[Back to Top](#index)
+
+
+#### Syntax, Parsing, and Linguistic Theories
 - Working Hard or Hardly Working: Challenges of Integrating Typology into Neural Dependency Parsers (#3860) [[arXiv]](https://arxiv.org/abs/1909.09279)
 - Cross-Lingual BERT Transformation for Zero-Shot Dependency Parsing (#1832) [[arXiv]](https://arxiv.org/abs/1909.06775)
 - Multilingual Grammar Induction with Continuous Language Identification (#3883)
 - Quantifying the Semantic Core of Gender Systems (#2637)
 
-### Sentiment and Social Media
+[Back to Top](#index)
+
+
+#### Sentiment and Social Media
 - Perturbation Sensitivity Analysis for Detecting Unintended Model Biases (#3447)
 - Automatically Inferring Gender Associations from Language (#3519) [[arXiv]](https://arxiv.org/abs/1909.00091)
 - Reporting the Unreported: Event Extraction for Analyzing the Local Representation of Hate Crimes (#3715) [[arXiv]](https://arxiv.org/abs/1909.02126)
 - Minimally Supervised Learning of Affective Events Using Discourse Relations (#3493) [[arXiv]](https://arxiv.org/abs/1909.00694)
 
-### Phonology, Word Segmentation, and Parsing
+[Back to Top](#index)
+
+
+#### Phonology, Word Segmentation, and Parsing
 - Constraint-based Learning of Phonological Processes (#451)
 - Detect Camouflaged Spam Content via StoneSkipping: Graph and Text Joint Embedding for Chinese Character Variation Representation (#1340)
 - A Generative Model for Punctuation in Dependency Trees (#TACL-1582)
 
-## Accepted Papers (Poster & Demo)
-### Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories
+[Back to Top](#index)
+
+
+### Poster & Demo Session
+#### Information Extraction, Information Retrieval and Document Analysis, Linguistic Theories
 - Leveraging Dependency Forest for Neural Medical Relation Extraction (#249)
 - Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data (#569)
 - Improving Relation Extraction with Knowledge-attention (#710)
@@ -329,7 +444,10 @@ topic index
 - PaRe: A Paper-Reviewer Matching Approach Using a Common Topic Space (#3239)
 - Linking artificial and human neural representations of language (#2750) [[arXiv]](https://arxiv.org/abs/1910.01244)
 
-### Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing
+[Back to Top](#index)
+
+
+#### Machine Translation and Mulitilinguality, Phonology, Morphology and Word Segmentation, Tagging, Chunking, Syntax and Parsing
 - Explicit Cross-lingual Pre-training for Unsupervised Machine Translation (#233) [[arXiv]](https://arxiv.org/abs/1909.00180)
 - Latent Part-of-Speech Sequences for Neural Machine Translation (#410) [[arXiv]](https://arxiv.org/abs/1908.11782)
 - Improving Back-Translation with Uncertainty-based Confidence Estimation (#798) [[arXiv]](https://arxiv.org/abs/1909.00157)
@@ -370,7 +488,10 @@ topic index
 - Similarity Based Auxiliary Classifier for Named Entity Recognition (#3886)
 - Variable beam search for generative neural parsing and its relevance for neuro-imaging signal analysis (#4015)
 
-### Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing
+[Back to Top](#index)
+
+
+#### Dialog and Interactive Systems, Machine Translation and Multilinuality, Phonology, Morphology, and Word Segmentation, Speech, Vision, Robotics, Multimodal and Grounding, Tagging, Chunking, Syntax and Parsing
 - Multi-task Learning for Natural Language Generation in Task-Oriented Dialogue (#242)
 - Dirichlet Latent Variable Hierarchical Recurrent Encoder-Decoder in Dialogue Generation (#622)
 - Semi-Supervised Bootstrapping of Dialogue State Trackers for Task-Oriented Modelling (#1011)
@@ -413,7 +534,10 @@ topic index
 - Dependency Parsing for Spoken Dialog Systems (#3171) [[arXiv]](https://arxiv.org/abs/1909.03317)
 - Span-based Hierarchical Semantic Parsing for Task-Oriented Dialog (#3240)
 
-### Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding
+[Back to Top](#index)
+
+
+#### Dialog and Interactive Systems, Speech, Vision, Robotics, Multimodal and Grounding
 - Data-Efficient Goal-Oriented Conversation with Dialogue Knowledge Transfer Networks (#9) [[arXiv]](https://arxiv.org/abs/1910.01302)
 - Multi-Granularity Representations of Dialog (#64) [[arXiv]](https://arxiv.org/abs/1908.09890)
 - Are You for Real? Detecting Identity Fraud via Dialogue Interactions (#111) [[arXiv]](https://arxiv.org/abs/1908.06820)
@@ -454,7 +578,10 @@ topic index
 - Fusion of Detected Objects in Text for Visual Question Answering (#3099) [[arXiv]](https://arxiv.org/abs/1908.05054)
 - TIGEr: Text-to-Image Grounding for Image Caption Evaluation (#3260) [[arXiv]](https://arxiv.org/abs/1909.02050)
 
-### Question Answering, Textual Inference and Other Areas of Semantics
+[Back to Top](#index)
+
+
+#### Question Answering, Textual Inference and Other Areas of Semantics
 - Tree-structured Decoding for Solving Math Word Problems (#56)
 - PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text (#86) [[arXiv]](http://arxiv.org/abs/1904.09537)
 - Cosmos QA: Machine Reading Comprehension with Contextual Commonsense Reasoning (#107) [[arXiv]](https://arxiv.org/abs/1909.00277)
@@ -490,7 +617,10 @@ topic index
 - Query-focused Scenario Construction (#3550)
 - Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model (#3819)
 
-### Discourse and Pragmatics, Summarization and Generation
+[Back to Top](#index)
+
+
+#### Discourse and Pragmatics, Summarization and Generation
 - Evaluating Pronominal Anaphora in Machine Translation: An Evaluation Measure and a Test Suite (#723) [[arXiv]](https://arxiv.org/abs/1909.00131)
 - A Regularization Approach for Incorporating Event Knowledge and Coreference Relations into Neural Discourse Parsing (#2916)
 - Weakly Supervised Multilingual Causality Extraction fromWikipedia (#3994)
@@ -526,7 +656,10 @@ topic index
 - Let's Ask Again: Refine Network for Automatic Question Generation (#3754) [[arXiv]](https://arxiv.org/abs/1909.05355)
 - Earlier Isn't Always Better: Submodular Analysis on Corpus and System Biases in Summarization (#3846) [[arXiv]](https://arxiv.org/abs/1908.11723)
 
-### Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning
+[Back to Top](#index)
+
+
+#### Information Retrieval and Document Analysis, Lexical Semantics, Sentence-level Semantics, Machine Learning
 - A Label Informative Wide & Deep Classifier for Scientific Publications (#542)
 - Text Level Graph Neural Network for Text Classification (#573)
 - Semantic Relatedness based Re-ranker for Text Spotting (#875) [[arXiv]](https://arxiv.org/abs/1909.07950)
@@ -570,7 +703,10 @@ topic index
 - Pretrained Language Models for Sequential Sentence Classification (#3887) [[arXiv]](https://arxiv.org/abs/1909.04054)
 - Emergent Linguistic Phenomena in Multi-Agent Communication Games (#2402) [[arXiv]](https://arxiv.org/abs/1901.08706)
 
-### Machine Learning
+[Back to Top](#index)
+
+
+#### Machine Learning
 - A Logic-Driven Framework for Consistency of Neural Models (#6) [[arXiv]](https://arxiv.org/abs/1909.00126)
 - Style Transfer for Texts: to Err is Human, but Error Margins Matter (#109)
 - Implicit Deep Latent Variable Models for Text Generation (#161) [[arXiv]](http://arxiv.org/abs/1908.11527)
@@ -615,7 +751,10 @@ topic index
 - Machine Translation With Weakly Paired Documents (#4149)
 - Countering Language Drift via Grounding (#2201)
 
-### Social Media and Computational Social Science, Text Mining and NLP Applications
+[Back to Top](#index)
+
+
+#### Social Media and Computational Social Science, Text Mining and NLP Applications
 - Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts (#52) [[arXiv]](http://arxiv.org/abs/1904.09073)
 - Neural Conversation Recommendation with Online Interaction Modeling (#705)
 - Different Acquisition from the Same Sharing: Sifting Multi-task Learning for Fake News Detection (#720) [[arXiv]](https://arxiv.org/abs/1909.01720)
@@ -658,7 +797,10 @@ topic index
 - Subword Language Model for Query Auto-Completion (#3873) [[arXiv]](https://arxiv.org/abs/1909.00599)
 - Enhancing Dialogue Symptom Diagnosis with Global Attention and Symptom Graph (#4069)
 
-### Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics
+[Back to Top](#index)
+
+
+#### Sentiment Analysis and Argument Mining, Lexical Semantics, Sentence-level Semantics
 - Multi-Relational Word Embeddings for Selectional Preferences (#623)
 - MulCode: A Multiplicative Multi-way Model for Compressing Neural Language Model (#700)
 - It's All in the Name: Mitigating Gender Bias with Name-Based Counterfactual Data Augmentation (#1220) [[arXiv]](http://arxiv.org/abs/1909.00871)
@@ -702,7 +844,10 @@ topic index
 - The Role of Pragmatic and Discourse Context in Determining Argument Impact (#3909)
 - Aspect-Level Sentiment Analysis Via Convolution over Dependency Tree (#4182)
 
-### Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation
+[Back to Top](#index)
+
+
+#### Discourse and Pragmatics, Linguistic Theories, Textual Inference, Question Answering, Summarization and Generation
 - Next Sentence Prediction helps Implicit Discourse Relation Classification within and across Domains (#982)
 - Split or Merge: Which is Better for Unsupervised RST Parsing? (#1701)
 - BERT for Coreference Resolution: Baselines and Analysis (#3731) [[arXiv]](https://arxiv.org/abs/1908.09091)
@@ -750,7 +895,10 @@ topic index
 - Evaluating BERT for natural language inference: a case study on the CommitmentBank (#3606)
 - Incorporating Domain Knowledge into Medical NLI using Knowledge Graphs (#3974) [[arXiv]](https://arxiv.org/abs/1909.00160)
 
-### Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining
+[Back to Top](#index)
+
+
+#### Information Extraction, Text Mining and NLP Applications, Social Media and Computational Social Science, Sentiment Analysis and Argument Mining
 - An Attentive Fine-Grained Entity Typing Model with Latent Type Representation (#189)
 - An Improved Neural Baseline for Temporal Relation Extraction (#193) [[arXiv]](https://arxiv.org/abs/1909.00429)
 - Improving Fine-grained Entity Typing with Entity Linking (#822) [[arXiv]](https://arxiv.org/abs/1909.12079)
@@ -793,3 +941,11 @@ topic index
 - Spelling-Aware Construction of Mixed-Language Texts for Teaching Foreign-Language Vocabulary (#3639)
 - Towards Machine Reading for Interventions from Humanitarian-Assistance Program Literature (#3718)
 - RUN through the Streets: Dataset and Models for Realistic Urban Navigation (#4014) [[arXiv]](https://arxiv.org/abs/1909.08970)
+
+[Back to Top](#index)
+
+
+## License
+[![license](https://camo.githubusercontent.com/60561947585c982aee67ed3e3b25388184cc0aa3/687474703a2f2f6d6972726f72732e6372656174697665636f6d6d6f6e732e6f72672f70726573736b69742f627574746f6e732f38387833312f7376672f63632d7a65726f2e737667)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Joohong Lee](https://roomylee.github.io/) has waived all copyright and related or neighboring rights to this work.
