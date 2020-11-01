@@ -1,3 +1,5 @@
+**[2020-11-01] This repository is merged into [nlp-papers-with-arxiv](https://github.com/roomylee/nlp-papers-with-arxiv)**
+
 # EMNLP-IJCNLP 2019 Papers
 
 Statistics and Accepted paper list with [arXiv](https://arxiv.org/) link of [EMNLP-IJCNLP 2019](https://www.emnlp-ijcnlp2019.org/),  inspired by Hoseong's [ICCV-2019-Paper-Statistics](https://github.com/hoya012/ICCV-2019-Paper-Statistics).
